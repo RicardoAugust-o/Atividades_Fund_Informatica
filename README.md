@@ -1,6 +1,8 @@
 # Atividades_Fund_Informatica
 Atividade realizada durante aula de Fundamentos de informática
  
+![Javascript](javascript.png)
+
 Ricardo Augusto de Jesus Costa
 
 Data de nascimento: 27/02/2005, 19 anos
