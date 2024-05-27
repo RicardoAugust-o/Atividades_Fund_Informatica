@@ -1,0 +1,7 @@
+read -p "Digite o primeiro número: " numero1
+read -p "Digite o segundo número: " numero2
+
+echo "Soma: $[echo "$numero1 + $numero2" | bc]"
+echo "Subtração: $[echo "$numero1 - $numero2" | bc]"
+echo "Multiplicação: $[echo "$numero1 * $numero2" | bc]"
+echo "Divisão: $[echo "$numero1 / $numero2" | bc]"
