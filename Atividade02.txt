@@ -1,0 +1,16 @@
+echo "Coloque seu primeiro número"
+read numero1
+echo "Coloque seu segundo número"
+read numero2
+echo "Escolha uma das opções abaixo"
+
+echo "1 - Soma"
+echo "2 - Subtracao"
+echo "3 - Divisao"
+echo "4 - Multiplicacao"
+read opcao
+
+echo "Soma:[$numero1+$numero2]
+echo "Subtração:[$numero1-$numero2]
+echo "Multiplicação:[$numero1*$numero2]
+echo "Divisão:[$numero1/$numero2]
