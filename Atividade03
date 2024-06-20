@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# Verifica se o diretório atual contém o arquivo "exemplo.txt"
+if [ -f "exemplo.txt" ]; then
+    echo "Conteúdo do arquivo 'exemplo.txt':"
+    cat exemplo.txt
+else
+    echo "O arquivo 'exemplo.txt' não existe no diretório atual."
+    exit 1
+fi
+
+exit 0
